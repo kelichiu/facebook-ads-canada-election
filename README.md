@@ -21,6 +21,10 @@ of people reached by ads, and the data frame that has the unnested region
 distributions of people reached by ads. The three data frames can be 
 joined by the unique identifier of the ads. 
 
+## Methods: EDA, Sentiment Analysis, TF-IDF
+
+In this work, we examine the dataset of advertisements posted to Facebook at the time of the 2019 Canada federal election season by exploratory data analysis, sentiment analysis and TF-IDF keyword extraction.
+
 ### See the [PDF file](facebook_ads_library.pdf) for R code, data visualization and full analysis
 
 
